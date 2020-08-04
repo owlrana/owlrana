@@ -1,4 +1,8 @@
-### Hi there 👋
+### Keep It A 💯
+###
+### DCA Founder | GDSC Mentor 2020 | MSIT 2022
+### Connect with me on Instagram @owlrana 
+### ______
 
 <!--
 **reachrahulrana/reachrahulrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
