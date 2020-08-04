@@ -1,7 +1,7 @@
 ### Keep It A 💯
 ###
 ### DCA Founder | GDSC Mentor 2020 | MSIT 2022
-### Connect with me on Instagram @owlrana 
+### https://bit.ly/reachrahulrana
 ### ______
 
 <!--
