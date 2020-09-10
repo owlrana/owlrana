@@ -1,8 +1,9 @@
 ### Keep It A 💯
 ###
-### DCA Founder | GDSC Mentor 2020 | MSIT 2022
-### https://bit.ly/reachrahulrana
-### ______
+### DCA Founder | Microsoft Learn Student Ambassador 2021 | GDSC Mentor 2020 | MSIT
+### 
+### Connect with me on LinkedIn, Twitter or Instagram @owlrana
+### _____________________________
 
 <!--
 **reachrahulrana/reachrahulrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
