@@ -1,6 +1,6 @@
 ## Keep It A 💯
 ##
-## DCA Founder | Microsoft Learn Student Ambassador 2021 | GDSC Mentor 2020 | MSIT
+## Geek Sauce Co-Founder | Microsoft Learn Student Ambassador 2021 | GDSC Mentor 2020 | BI WORLDWIDE Intern 2019 | MSIT
 ##
  Connect with me on **LinkedIn**, **Twitter** or **Instagram** **_@owlrana_**
 ## _____________________________
