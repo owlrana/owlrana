@@ -1,10 +1,8 @@
 ## Keep It A 💯
 ##
-## Team Code For Cause
+## Geek Sauce Co-Founder | Microsoft Learn Student Ambassador 2021 | GDSC Mentor 2020 | BI WORLDWIDE Intern 2019 | MSIT '22
 ##
-## Geek Sauce Co-Founder | Microsoft Learn Student Ambassador 2021 | GDSC Mentor 2020 | BI WORLDWIDE Intern 2019 | MSIT
-##
- Connect with me on **LinkedIn**, **Twitter** or **Instagram** **_@owlrana_**
+ Connect with me on **LinkedIn _@owlrana_**
 ## _____________________________
 
 <!--
