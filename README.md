@@ -1,6 +1,6 @@
 # !Hello World
-[Rahul Rana](https://www.linkedin.com/in/owlrana) this side!
-## My friends call me owl.
+## [Rahul Rana](https://www.linkedin.com/in/owlrana) this side!
+My friends call me owl.
 ## Geek Sauce Co-Founder | GSSoC Contributor '21 | Microsoft LSA '21 | GOOGLE DSC Mentor '20 | BI WORLDWIDE Intern '19 | MSIT, New Delhi 2018-2022
 
 
