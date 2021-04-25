@@ -10,7 +10,7 @@ My friends call me owl.
 
 - :eyes: Things I know: *Python, C/C++, Linux, Designing, UI UX, Basic Development*  
 
-- 👯 I’m looking to collaborate on *a very-cool-animated-and-interactive-kinda-like-game Personal Website*
+- 👯 I’m looking to collaborate on *extremely-cool-insanely-animated-super-interactive-kinda-game-like Personal Website*
 
 - 💬 Ask me about *F1, Music, Space and Time*
 
