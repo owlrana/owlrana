@@ -1,6 +1,4 @@
-## Keep It A 💯
-##
-## Geek Sauce Co-Founder | Microsoft Learn Student Ambassador 2021 | GDSC Mentor 2020 | BI WORLDWIDE Intern 2019 | MSIT '22
+## Geek Sauce Co-Founder | GSSoC Contributor '21 | Microsoft LSA '21 | GOOGLE DSC Mentor '20 | BI WORLDWIDE Intern '19 | MSIT, New Delhi 2018-2022
 ##
  Connect with me on **LinkedIn _@owlrana_**
 ## _____________________________
