@@ -1,5 +1,18 @@
-# !Hello World
-## [Rahul Rana](https://www.linkedin.com/in/owlrana) this side!
+## Sup dawg? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Rana!](https://g.co/kgs/iohi75) 
+
+<a href="https://www.linkedin.com/in/reachrahulrana/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://instagram.com/owlrana">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="mailto:me.rahulrana@outlook.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCENZcMxTeKsRip7KrveVEqg">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
 My friends call me owl.
 ## Geek Sauce Co-Founder | GSSoC Contributor '21 | Microsoft LSA '21 | GOOGLE DSC Mentor '20 | BI WORLDWIDE Intern '19 | MSIT, New Delhi 2018-2022
 
