@@ -10,7 +10,7 @@
   <img align="left" width="26px" src="https://i.gifer.com/origin/dc/dc76c3ec57eb149c33de9f475f4fa647.gif" />
 </a>
 <a href="https://www.youtube.com/channel/UCENZcMxTeKsRip7KrveVEqg">
-  <img align="left" width="26px" src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/youtubegif.gif" />
+  <img align="left" width="26px" src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" />
 </a>
 
 My friends call me owl.
