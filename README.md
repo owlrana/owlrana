@@ -1,5 +1,5 @@
 ## Sup dawg? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Rana!](https://g.co/kgs/iohi75)
-*My friends call me owl.*
+*My friends call me owl.
 
 <a href="https://www.linkedin.com/in/reachrahulrana/">
   <img align="left" width="35px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
