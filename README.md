@@ -1,4 +1,5 @@
 ## Sup dawg? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Rana!](https://g.co/kgs/iohi75) 
+My friends call me owl.
 
 <a href="https://www.linkedin.com/in/reachrahulrana/">
   <img align="left" width="35px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
@@ -13,8 +14,6 @@
   <img align="left" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" />
 </a>
 
-
-My friends call me owl.
 ## Geek Sauce Co-Founder | GSSoC Contributor '21 | Microsoft LSA '21 | GOOGLE DSC Mentor '20 | BI WORLDWIDE Intern '19 | MSIT, New Delhi 2018-2022
 
 
