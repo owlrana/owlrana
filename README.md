@@ -1,16 +1,16 @@
 # Sup dawg? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Rana!](https://g.co/kgs/iohi75)
 
 <a href="https://www.linkedin.com/in/reachrahulrana/">
-  <img align="left" width="35px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
+  <img align="left" width="45px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
 </a>
 <a href="https://instagram.com/owlrana">
-  <img align="left" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />
+  <img align="left" width="45px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />
 </a>
 <a href="mailto:me.rahulrana@outlook.com">
-  <img align="left" width="35px" src="https://i.gifer.com/origin/dc/dc76c3ec57eb149c33de9f475f4fa647.gif" />
+  <img align="left" width="45px" src="https://i.gifer.com/origin/dc/dc76c3ec57eb149c33de9f475f4fa647.gif" />
 </a>
 <a href="https://www.youtube.com/channel/UCENZcMxTeKsRip7KrveVEqg">
-  <img align="left" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" />
+  <img align="left" width="45px" src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" />
 </a><br />
 
 ### Geek Sauce Co-Founder | GSSoC Contributor '21 | Microsoft LSA '21 | GOOGLE DSC Mentor '20 | BI WORLDWIDE Intern '19 | MSIT, New Delhi 2018-2022
