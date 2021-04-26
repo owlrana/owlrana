@@ -1,16 +1,16 @@
 ## Sup dawg? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Rana!](https://g.co/kgs/iohi75) 
 
 <a href="https://www.linkedin.com/in/reachrahulrana/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif"  />
 </a>
 <a href="https://instagram.com/owlrana">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" width="26px" src="http://smsv.sg/wp-content/uploads/2020/08/insta-gif.gif" />
 </a>
 <a href="mailto:me.rahulrana@outlook.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://i.gifer.com/origin/dc/dc76c3ec57eb149c33de9f475f4fa647.gif" />
 </a>
 <a href="https://www.youtube.com/channel/UCENZcMxTeKsRip7KrveVEqg">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" width="26px" src="https://media1.giphy.com/media/KFnSuizdGVCtkVFOXM/giphy.gif" />
 </a>
 
 My friends call me owl.
