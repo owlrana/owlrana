@@ -7,7 +7,7 @@
   <img align="left" width="40px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />
 </a>
 <a href="mailto:me.rahulrana@outlook.com">
-  <img align="left" width="40px" src="https://i.gifer.com/origin/dc/dc76c3ec57eb149c33de9f475f4fa647.gif" />
+  <img align="left" width="40px" src="https://i.pinimg.com/originals/f7/dc/b2/f7dcb2817ad147c8b1d700ceb1d8cb28.gif" />
 </a>
 <a href="https://www.youtube.com/channel/UCENZcMxTeKsRip7KrveVEqg">
   <img align="left" width="40px" src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" />
