@@ -7,7 +7,7 @@
   <img align="left" width="40px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />
 </a>
 <a href="mailto:me.rahulrana@outlook.com">
-  <img align="left" width="40px" src="https://format-com-cld-res.cloudinary.com/image/private/s--yaXUfYjo--/c_crop,h_338,w_338,x_0,y_115/c_fill,g_center,h_290,w_290/fl_keep_iptc.progressive,q_95/v1/085b84b9b8bb1837fa07d4529ce2bba7/happy_gmail.gif" />
+  <img align="left" width="40px" src="https://www.bootgum.com/wp-content/uploads/2018/07/Email_Open_550px-1.gif" />
 </a>
 <a href="https://www.youtube.com/channel/UCENZcMxTeKsRip7KrveVEqg">
   <img align="left" width="40px" src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" />
