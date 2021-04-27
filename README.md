@@ -15,7 +15,7 @@
 
 _
 
-### [Educational Podcast Host](https://youtu.be/Sj8ljn9NP0I) | [GSSoC Contributor '21](https://github.com/HarshCasper/Rotten-Scripts/pull/1014) | [Microsoft LSA '21](https://studentambassadors.microsoft.com/en-US/profile/56967) | [GOOGLE DSC Mentor '20](https://i.imgur.com/yjjxyq4.png) | [BI WORLDWIDE Intern '19](https://s3-ap-southeast-1.amazonaws.com/internshala-uploads/student_certificates/24515970.png) | MSIT, New Delhi 2018-2022
+### [Educational Podcast Host](https://youtu.be/Sj8ljn9NP0I) | [GSSoC Contributor '21](https://github.com/HarshCasper/Rotten-Scripts/pull/1014) | [Microsoft LSA '21](https://studentambassadors.microsoft.com/en-US/profile/56967) | [GOOGLE DSC Mentor '20](https://i.imgur.com/yjjxyq4.png) | [BI WORLDWIDE Intern '19](https://s3-ap-southeast-1.amazonaws.com/internshala-uploads/student_certificates/24515970.png) | MSIT '22
 
 
 - 🔭 I’m currently working on *my Competitive Skills and Aptitude*
