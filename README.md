@@ -15,7 +15,7 @@
 
 _
 
-### Geek Sauce Co-Founder | GSSoC Contributor '21 | Microsoft LSA '21 | GOOGLE DSC Mentor '20 | BI WORLDWIDE Intern '19 | MSIT, New Delhi 2018-2022
+### Educational Podcast Host | GSSoC Contributor '21 | Microsoft LSA '21 | GOOGLE DSC Mentor '20 | BI WORLDWIDE Intern '19 | MSIT, New Delhi 2018-2022
 
 
 - 🔭 I’m currently working on *my Competitive Skills and Aptitude*
