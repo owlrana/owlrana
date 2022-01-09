@@ -34,7 +34,7 @@ _
 
 - ⚡ Fun fact: *I also produce alternative hiphop music at night!*
 
-![Profile Views]((https://komarev.com/ghpvc/?username=owlrana&color=brightgreen)+100000000)
+![](https://komarev.com/ghpvc/?username=owlrana&color=brightgreen)
 
 #### Languages I prefer -
 
