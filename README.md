@@ -34,7 +34,7 @@ _
 
 - ⚡ Fun fact: *I also produce alternative hiphop music at night!*
 
-![Profile views](https://gpvc.arturio.dev/owlrana)
+(![Profile Views](https://komarev.com/ghpvc/?username=mayankchaudhary26&color=brightgreen))
 
 #### Languages I prefer -
 
